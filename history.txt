@@ -1,0 +1,36 @@
+    1  pkg search neofetch cmatrix git gh
+    2  pkg search neofetch
+    3  pkg search cmatrix
+    4  pkg search git
+    5  pkg install neofetch cmatrix
+    6  pkg upgrade cmatrix 
+    7  pkg upgrade neofetch
+    8  pkg upgrade git
+    9  pkg upgrade gh
+   10  pkg install cmatrix neofstch 
+   11  pkg install cmatrix neofetch git gh
+   12  cmatrix
+   13  neofetch
+   14  gh auth login
+   15  git add .
+   16  git clone https://github.com/243045175-ABENOJA
+   17  git clone https://github.com/243045175-ABENOJA/243045175-ABENOJA
+   18  git clone https://github.com/243045175-ABENOJA/243045-ABENOJA
+   19  cd 243045-ABENOJA
+   20  git add .
+   21  git config --global user.name "243045175-ABENOJA"
+   22  touch termuxneodemo.txt
+   23  nano 
+   24  git -v
+   25  clwar
+   26  clear
+   27  git status
+   28  git add .
+   29  git config --global user.name "243045175-ABENOJA"
+   30  git commit
+   31  git push
+   32  cat touchneodemo.txt
+   33  git add .
+   34  cat touchneodemo.txt
+   35  cat termuxneodemo.txt
+   36  history > history.txt
