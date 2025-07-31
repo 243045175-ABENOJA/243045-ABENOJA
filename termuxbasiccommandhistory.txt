@@ -1,0 +1,79 @@
+    1  clear
+    2  cd ~
+    3  mk dir -p project/src/utils
+    4  mkdir -p project/src/utils
+    5  cd project/src/utils
+    6  cd ../../
+    7  cd project
+    8  mv src source
+    9  rm -r source
+   10  toich file{1..3}.txt
+   11  touch file{1..3}.txt
+   12  cp file1.txt copy_of_file1.txt
+   13  mv file2.txt ../file2_moved.txt
+   14  rm file3
+   15  rm file3.txt
+   16  nano file1.txt
+   17  cat file1.txt
+   18  head file1.txt
+   19  tail file1.txt
+   20  grep "search_string" file1.txt
+   21  less file1.txt
+   22  ls -l file1.txt
+   23  chmod 644 file1.txt
+   24  chmod +x script.sh
+   25  sudo chown newowner:newgroup file1.txt
+   26  ifconfig
+   27  ping ww.google.com
+   28  netstat -tuln
+   29  netstat -s
+   30  df -h
+   31  du -sh /path/to/directory
+   32  du -sh /https://github.com/243045175-ABENOJA/243045-ABENOJA
+   33  ps aux
+   34  kill -9 PID
+   35  TOP
+   36  top
+   37  tar -cvf archive.tar file1.txt file2.txt
+   38  touch file{1..2}.txt
+   39  tar -cvf archive.tar file1.txt file2.txt
+   40  tar -xvf archive.tar
+   41  tar -czvf archive.tar file1.txt file2.txt
+   42  tar -xzvf archive.tar.gz
+   43  cd ../
+   44  tar -xzvf archive.tar.gz
+   45  cmatrix
+   46  cd project
+   47  sudo chown newowner:newgroup file1.txt
+   48  cd ../
+   49  pkg remove cmatrix
+   50  pkg update neofetch
+   51  pkg upgrade neofetch
+   52  history > termuxbasiccommandshistory.txt
+   53  cat termuxbasiccommandshistory.txt
+   54  git add .
+   55  mv termuxbasiccommandshistory.txt projects
+   56  cd projects
+   57  mv termuxbasiccommandshistory.txt project
+   58  cd projects
+   59  mkdir -p projects
+   60  cd project
+   61  history
+   62  git add .
+   63  cd ../
+   64  cd 243045-ABENOJA
+   65  git add .
+   66  git config --global user.name "243045175-ABENOJA"
+   67  git commit
+   68  git push
+   69  mv termuxbasiccommandshistory.txt 
+   70  cat termuxbasiccommandshistory.txt 
+   71  cd ~
+   72  cat termuxbasiccommandshistory.txt 
+   73  cd project
+   74  cat termuxbasiccommandshistory.txt 
+   75  history
+   76  cd ~
+   77  cd 243045-ABENOJA
+   78  history
+   79  history > termuxbasiccommandhistory.txt
